@@ -27,15 +27,13 @@
       <td>Django framework</td>
   </tr>
 </table>
-
-                    <table border="1">
+ <table border="1">
   <tr>
       <th>Soft Skills</th>
       <td>Problem Solving</td>
       <td>Flexibility</td>
   </tr>
 </table>
-
     </body>
 </html>        
 
