@@ -34,6 +34,22 @@
       <td>Flexibility</td>
   </tr>
 </table>
+<br>
+<h2><i>Contact Form</i></h2>
+    <form>
+        <label for="name">Name: </label>
+        <input placeholder="Name" id="name" type="text" />
+        <br>
+         <label for="email">Email: </label>
+        <input placeholder="Email" id="email" type="email" />
+        </br>
+        <label for="message">Message: </label>
+        <input placeholder="Message" id="Message" type="text" />
+    </form>
+    <br>
+    <h2>Contacts</h2>
+  <a href="link1" target="_blank">Sololearn</a>
+  <a href="link2" target="_blank">LinkedIn</a>
     </body>
 </html>        
 
